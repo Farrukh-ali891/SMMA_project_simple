@@ -1,0 +1,89 @@
+.title-4{
+    text-align: center;
+    color: #01126c;
+}
+
+/* .login-logo img{
+    width: 20%;
+    margin-left: 20px;
+} */
+
+.au-btn--blue{
+    color: #fff !important;
+}
+
+.au-btn--blue2 {
+    background: #00aced;
+    color: #fff !important;
+}
+
+/* .page-wrapper {
+    padding-bottom: 40vh;
+} */
+
+#boxes{
+    margin-top: 50px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+#boxes i{
+    font-size: 20px;
+    margin-left: 30px;
+    cursor: pointer;
+    padding: 7px;
+    background-color: transparent;
+   color: #01126c;
+   border: 2px solid #01126c;
+    border-radius: 50%;
+    transition: 0.3s;
+}
+
+.card{
+    border-radius: 10px;
+}
+
+#boxes i:hover{
+    background-color: #01126c;
+    color: #fff;
+}
+
+#custom-page{
+    display: flex;
+      align-items: center;
+      justify-content: center;
+}
+
+.page-link{
+    color: #01126c;
+
+}
+
+.page-link:hover{
+    background-color: #01126c;
+    color: #fff;
+
+}
+
+/* .welcome .title-index{
+    text-align: center;
+    font-weight: 400;
+    color: #01126c;
+    opacity: 0; /* Start with 0 opacity
+    animation: fadeIn 2.5s ease-in-out infinite; Animation properties 
+}
+
+ @keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1; 
+    }
+} */
+
+
+
